@@ -5,29 +5,30 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbain63" alt="pbain63" /></a> </p>
 
-- - I’m currently working on [Library app](https://pbain63.github.io/Project_Library/)
+- I’m currently working on [Library app](https://pbain63.github.io/Project_Library/)
 
-- - I’m currently learning **from "The Odin Project"**
+-  I’m currently learning **from "The Odin Project"**
 
-- -- I’m looking to collaborate on [Food delivery app](https://github.com/pbain63/food-delivery-app)
+-  I’m looking to collaborate on [Food delivery app](https://github.com/pbain63/food-delivery-app)
 
-- - I’m looking for help with [Food delivery app](https://github.com/pbain63/food-delivery-app)
+- I’m looking for help with [Food delivery app](https://github.com/pbain63/food-delivery-app)
 
-- - All of my projects are available at [https://pbain63.github.io/portfolio](https://pbain63.github.io/portfolio)
+- All of my projects are available at [https://pbain63.github.io/portfolio](https://github.com/pbain63)
 
-- - I regularly try to write on [Scrapbooking](Scrapbooking)
+- I regularly try to write on my [Scrapbook](Scrapbook)
 
-- - Ask me about **anything**
+- Ask me about **anything**
 
-- - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodip-bain/)**
+- How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
-- - Know about my experiences [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf)
+- Know about my experiences 
+<!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
-- - Fun fact **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and I have a good sense of humour(I think).**
+-  Fun fact **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and I have a good sense of humour(I think).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prodipbain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prodipbain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prodipbain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prodipbain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
