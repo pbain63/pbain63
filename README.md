@@ -13,7 +13,7 @@
 
 - I’m looking for help with [Food delivery app](https://github.com/pbain63/food-delivery-app)
 
-- All of my projects are available at [https://pbain63.github.io/portfolio](https://github.com/pbain63)
+- All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
 - I regularly try to write on my [Scrapbook](Scrapbook)
 
