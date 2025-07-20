@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbain63&label=Profile%20views&color=0e75b6&style=flat" alt="pbain63" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbain63" alt="pbain63" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbain63" alt="pbain63" /></a> </p> -->
 
 - I’m currently working on [Library app](https://pbain63.github.io/Project_Library/)
 
 - I’m currently learning **from "The Odin Project"**
 
-- I’m looking to collaborate on any open source projects.
+- I’m looking to collaborate on any open-source projects.
 
-- I’m looking for help with 
+- I’m looking for **Junior Web Developer** or **Web Developer** or **Junior Frontend Developer** or **Frontend Developer** role
 
 - All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
@@ -21,7 +21,7 @@
 
 - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
-- Know about my experiences
+- Know about my experiences [Portfolio](https://pbain63.github.io/portfolio)
 <!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
 - Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour(I think, most people don't).**
