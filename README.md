@@ -7,9 +7,9 @@
 
 - I’m currently working on [Library app](https://pbain63.github.io/Project_Library/)
 
--  I’m currently learning **from "The Odin Project"**
+- I’m currently learning **from "The Odin Project"**
 
--  I’m looking to collaborate on [Food delivery app](https://github.com/pbain63/food-delivery-app)
+- I’m looking to collaborate on [Food delivery app](https://github.com/pbain63/food-delivery-app)
 
 - I’m looking for help with [Food delivery app](https://github.com/pbain63/food-delivery-app)
 
@@ -21,10 +21,10 @@
 
 - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
-- Know about my experiences 
+- Know about my experiences
 <!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
--  Fun fact **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and I have a good sense of humour(I think).**
+- Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and I have a good sense of humour(I think).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pbain63&show_icons=true&locale=en" alt="pbain63" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pbain63&" alt="pbain63" /></p>
-
