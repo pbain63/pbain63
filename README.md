@@ -9,9 +9,9 @@
 
 - I’m currently learning **from "The Odin Project"**
 
-- I’m looking to collaborate on [Food delivery app](https://github.com/pbain63/food-delivery-app)
+- I’m looking to collaborate on any open source projects.
 
-- I’m looking for help with [Food delivery app](https://github.com/pbain63/food-delivery-app)
+- I’m looking for help with 
 
 - All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
@@ -24,7 +24,7 @@
 - Know about my experiences
 <!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
-- Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and I have a good sense of humour(I think).**
+- Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour(I think, most people don't).**
 
 ---
 
