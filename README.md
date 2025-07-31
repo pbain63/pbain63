@@ -21,7 +21,7 @@
 
 - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
-- Know about my experiences [Portfolio](https://pbain63.github.io/portfolio)
+- Know about my experiences - [Portfolio](https://prodip-portfolio2.netlify.app/)
 <!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
 - Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour(I think so but most people don't).**
@@ -52,7 +52,6 @@
 #### Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
 
 #### Language:
 
@@ -90,7 +89,7 @@
 <!-- Optional fun badge (keep or remove) -->
 <p align="center">
 
-"সমুদ্রে পেতেছি শয্যা শিশিরে কি ভয় !"    ---  বনফুল
+"সমুদ্রে পেতেছি শয্যা শিশিরে কি ভয় !" --- বনফুল
 
 </p>
 
