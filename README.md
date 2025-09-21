@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbain63" alt="pbain63" /></a> </p> -->
 
-- I’m currently working on [SQL](https://www.theodinproject.com/lessons/node-path-databases-databases-and-sql)
+- I’m currently working on [SQL](https://www.theodinproject.com/lessons/node-path-databases-sql-zoo)
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
