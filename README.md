@@ -15,7 +15,7 @@
 
 - All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
-- I regularly try to write on my [Scrapbook](Scrapbook)
+- I try to write on substack [Testimony of a Bug](substack)
 
 - Ask me about **anything**
 
