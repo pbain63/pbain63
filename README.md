@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pbain63" alt="pbain63" /></a> </p> -->
 
-- I’m currently working on [OOP Principles](https://www.theodinproject.com/lessons/node-path-javascript-oop-principles)
+- I’m currently working on [Form Validation with JavaScript](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
