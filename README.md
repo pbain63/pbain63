@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbain63&label=Profile%20views&color=0e75b6&style=flat" alt="pbain63" /> </p>
 
-- I’m currently working on [Asynchronous Code](https://www.theodinproject.com/lessons/node-path-javascript-asynchronous-code)
+- I’m currently working on [Working with APIs](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis)
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
