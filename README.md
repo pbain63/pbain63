@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbain63&label=Profile%20views&color=0e75b6&style=flat" alt="pbain63" /> </p>
 
-- I’m currently working on [Project: Recursion](https://www.theodinproject.com/lessons/javascript-recursion)
+- I’m currently working on [Time Complexity](https://www.theodinproject.com/lessons/javascript-time-complexity)
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
