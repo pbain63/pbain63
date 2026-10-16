@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbain63&label=Profile%20views&color=0e75b6&style=flat" alt="pbain63" /> </p>
 
-- I’m currently working on [Space Complexity](https://www.theodinproject.com/lessons/javascript-space-complexity)
+- I’m currently working on [Common Data Structures and Algorithms](https://www.theodinproject.com/lessons/javascript-common-data-structures-and-algorithms)
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
