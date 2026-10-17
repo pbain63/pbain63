@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prodip Bain.</h1>
-<h3 align="center">A humble self-taught Web Developer from Bangladesh, passionate about building beautiful web experiences with imagination and creativity.</h3>
+<h3 align="center">A humble self taught Software Developer from Bangladesh, passionate about building beautiful web experiences with imagination and creativity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbain63&label=Profile%20views&color=0e75b6&style=flat" alt="pbain63" /> </p>
 
@@ -7,9 +7,9 @@
 
 - I’m currently learning Full Stack Web Development from [**The Odin Project**](https://www.theodinproject.com/)
 
-- I’m looking to collaborate on any open-source projects.
+- I’m looking to collaborate on any open source projects.
 
-- I’m looking for **Junior Web Developer** or **Web Developer** or **Junior Frontend Developer** or **Frontend Developer** role
+- I’m looking for **Junior Software Developer** or **Software Developer** or **Junior Frontend Developer** or **Frontend Developer** role
 
 - All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
@@ -19,7 +19,7 @@
 
 - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
-- Know about my experiences - [Portfolio](https://prodip-portfolio2.netlify.app/)
+- Know about my experiences from [Portfolio](https://prodip-portfolio2.netlify.app/)
 <!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
 - Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour ( I think so but most people don't ).**
@@ -65,7 +65,6 @@
 
 ---
 
-<!-- Optional fun badge (keep or remove) -->
 <p align="center">
 
 "সমুদ্রে পেতেছি শয্যা শিশিরে কি ভয় !" --- বনফুল
