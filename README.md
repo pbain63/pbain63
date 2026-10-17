@@ -20,9 +20,8 @@
 - How to reach me **prodipbain63@gmail.com | [LinkedIn](https://www.linkedin.com/in/prodipbain/)**
 
 - Know about my experiences from [Portfolio](https://prodip-portfolio2.netlify.app/)
-<!-- [https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf](https://pbain63.github.io/portfolio/assets/resume/Prodip_Bain_Resume.pdf) -->
 
-- Fun fact - **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour ( I think so but most people don't ).**
+- Fun fact: **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour ( I think so but most people don't ).**
 
 ---
 
@@ -58,8 +57,7 @@
 ---
 
 <p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbain63&layout=compact&theme=tokyonight" height="150" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pbain63&show_icons=true&theme=tokyonight" height="150" /> -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pbain63&theme=tokyonight" height="150" alt="pbain63" />
 </p>
 
