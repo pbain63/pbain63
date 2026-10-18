@@ -9,7 +9,7 @@
 
 - I’m looking to collaborate on any open source projects.
 
-- I’m looking for **Junior Software Developer** or **Software Developer** or **Junior Frontend Developer** or **Frontend Developer** role
+- I’m looking for **Junior Software Developer** or **Software Developer** role
 
 - All of my projects are available at [https://github.com/pbain63](https://github.com/pbain63)
 
