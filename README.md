@@ -21,7 +21,7 @@
 
 - Know about my experiences from [Portfolio](https://prodip-portfolio2.netlify.app/)
 
-- Fun fact: **I enjoy reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour ( I think so but most people don't ).**
+- Fun fact: **I enjoy mathematics, reading, writing, any form of Art, psychology, human behavioural patterns, try to stay physically active and have a good sense of humour ( I think so but most people don't ).**
 
 ---
 
